@@ -73,7 +73,7 @@ namespace If_Exercises_4U
                 Console.WriteLine("Everyone is the same age");
 
             // Medium/Hard 4
-            if (personOne!= personTwo && personOne != personThree && personTwo != personThree)
+            if (personOne != personTwo && personOne != personThree && personTwo != personThree)
                 Console.WriteLine("Everyone is a different age");
 
             // Super Challenge
